@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.Collections;
+package assistedProjectphase1L2.Collections;
 
 import java.util.*;
 public class CollectionDemo

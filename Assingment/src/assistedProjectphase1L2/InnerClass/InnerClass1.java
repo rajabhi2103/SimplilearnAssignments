@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.InnerClass;
+package assistedProjectphase1L2.InnerClass;
 
 public class InnerClass1 {
 	

@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.TryCatch;
+package AssistedProjectphase1L3.TryCatch;
 
 public class TryCatchDemo
 {

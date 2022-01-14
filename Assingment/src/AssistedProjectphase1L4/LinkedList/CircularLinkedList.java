@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L4.LinkedList;
+package AssistedProjectphase1L4.LinkedList;
 
 public class CircularLinkedList 
 { 

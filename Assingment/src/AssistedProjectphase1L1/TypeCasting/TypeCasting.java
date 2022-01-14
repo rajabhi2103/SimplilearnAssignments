@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L1.TypeCasting;
+package AssistedProjectphase1L1.TypeCasting;
 
 public class TypeCasting {
 public static void main(String[] args) {

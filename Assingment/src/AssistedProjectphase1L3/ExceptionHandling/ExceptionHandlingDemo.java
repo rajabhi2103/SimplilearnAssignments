@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.ExceptionHandling;
+package AssistedProjectphase1L3.ExceptionHandling;
 
 class MyException extends Exception{
 	 String str1;

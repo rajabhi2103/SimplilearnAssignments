@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.OopsConcept;
+package AssistedProjectphase1L3.OopsConcept;
 
 public class EncapsulationDemo {
 

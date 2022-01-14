@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.ThreadSynchronization;
+package AssistedProjectphase1L3.ThreadSynchronization;
 
 import java.io.*; 
 import java.util.*; 

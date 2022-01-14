@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.RegularExpression;
+package assistedProjectphase1L2.RegularExpression;
 
 import java.util.regex.*;
 public class RegExDemo 

@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L5.Search;
+package AssistedProjectphase1L5.Search;
 
 public class BinarySearch {
 	 public static void main(String[] args){

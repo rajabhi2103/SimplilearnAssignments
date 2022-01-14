@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.FileHandling;
+package AssistedProjectphase1L3.FileHandling;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L5.Search;
+package AssistedProjectphase1L5.Search;
 
 import java.util.Arrays;
 public class ExponentialSearch {

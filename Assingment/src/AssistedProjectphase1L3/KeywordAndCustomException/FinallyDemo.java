@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.KeywordAndCustomException;
+package AssistedProjectphase1L3.KeywordAndCustomException;
 
 public class FinallyDemo
 {

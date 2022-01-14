@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.Constructor;
+package assistedProjectphase1L2.Constructor;
 
 	class EmpInfo
 	{

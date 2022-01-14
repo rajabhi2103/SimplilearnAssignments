@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.FileHandling;
+package AssistedProjectphase1L3.FileHandling;
 
 import java.io.IOException; 
 import java.nio.file.*; 

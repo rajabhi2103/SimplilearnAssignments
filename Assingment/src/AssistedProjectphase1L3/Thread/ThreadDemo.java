@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.Thread;
+package AssistedProjectphase1L3.Thread;
 
 public class ThreadDemo extends Thread
 {

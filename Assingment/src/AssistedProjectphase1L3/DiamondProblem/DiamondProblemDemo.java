@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.DiamondProblem;
+package AssistedProjectphase1L3.DiamondProblem;
 
 interface First 
 { 

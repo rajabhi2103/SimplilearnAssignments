@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.Arrays;
+package assistedProjectphase1L2.Arrays;
 
 public class ArrayDemo {
 public static void main(String[] args) {

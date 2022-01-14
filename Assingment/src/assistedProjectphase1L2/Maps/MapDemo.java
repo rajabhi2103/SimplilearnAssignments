@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.Maps;
+package assistedProjectphase1L2.Maps;
 
 import java.util.*;
 public class MapDemo {

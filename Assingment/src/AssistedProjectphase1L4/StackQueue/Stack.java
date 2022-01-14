@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L4.StackQueue;
+package AssistedProjectphase1L4.StackQueue;
 
 public class Stack 
 { 

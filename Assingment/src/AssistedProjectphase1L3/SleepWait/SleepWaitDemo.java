@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L3.SleepWait;
+package AssistedProjectphase1L3.SleepWait;
 
 public class SleepWaitDemo 
 {

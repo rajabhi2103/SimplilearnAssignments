@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L5.Sort;
+package AssistedProjectphase1L5.Sort;
 
 class QuickSort
 {

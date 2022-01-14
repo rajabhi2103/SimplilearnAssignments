@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.Methods;
+package assistedProjectphase1L2.Methods;
 
 public class MethodDemo {
 	

@@ -1,4 +1,4 @@
-package com.sl.Assignments.assistedProjectphase1L2.String;
+package assistedProjectphase1L2.String;
 
 	public class StringDemo 
 		 {

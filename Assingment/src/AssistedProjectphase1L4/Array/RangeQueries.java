@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L4.Array;
+package AssistedProjectphase1L4.Array;
 
 public class RangeQueries
 { 

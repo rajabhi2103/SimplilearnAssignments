@@ -1,4 +1,4 @@
-package com.sl.Assignments.AssistedProjectphase1L1.pack1;
+package AssistedProjectphase1L1.pack1;
 public class pubaccessspecifiers {
 public void display() 
  { 
